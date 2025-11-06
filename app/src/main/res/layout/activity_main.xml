@@ -35,7 +35,7 @@
         android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/EditTextUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -50,7 +50,7 @@
         android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/editTextText2"
+        android:id="@+id/EditTextPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -65,7 +65,7 @@
         android:textAlignment="viewEnd" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonsubmit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#03A9F4"
